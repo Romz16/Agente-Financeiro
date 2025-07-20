@@ -1,6 +1,6 @@
 import os
 from textwrap import dedent
-from datetime import datetime  # Importa para a data atual
+from datetime import datetime  
 from dotenv import load_dotenv
 import re
 import time
